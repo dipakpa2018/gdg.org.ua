@@ -147,7 +147,8 @@ If you for some reason need to run shell with env activated, run this:
     $ make activate-env
     [gdg.org.ua][py3.5] $ _
 
-Troubleshooting
+Troubleshooting find error
+
 ---------------
 
 Errors with installing mysql-connector-python
